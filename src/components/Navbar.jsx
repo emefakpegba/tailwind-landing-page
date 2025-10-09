@@ -72,7 +72,7 @@ function Navbar() {
                 <span className="sr-only">Datafolia</span>
                 <img
                   alt=""
-                  src="https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=500"
+                  src="./src/assets/create-react-app.svg"
                   className="h-8 w-auto"
                 />
               </a>
