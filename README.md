@@ -5,7 +5,7 @@ Buid a Modern UI (User Interface), responsive landing page template built entire
 
 -----
 
-## ✨ Demo
+## 💻 Demo
 
 Modern User Interface: Vercel
 
