@@ -160,6 +160,13 @@ To use the recommended **Inter** typeface for a modern UI look:
     /* ... rest of your CSS */
     ```
 
+### UI Blocks - Packages Installation
+
+```bash
+npm i @headlessui/react
+npm i @heroicons/react
+```
+
 ### Dark Mode Support
 
 The template supports the `class` strategy for dark mode. Apply the following classes to your root `<html>` element (or component containing your page structure):

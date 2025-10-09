@@ -3,7 +3,6 @@ import { useState } from "react";
 import { Dialog, DialogPanel } from "@headlessui/react";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 
-
 const navigation = [
   { name: "Product", href: "#" },
   { name: "Features", href: "#" },
@@ -27,9 +26,9 @@ function Navbar() {
               className="-m-1.5 p-1.5 flex items-center gap-2 font-bold md:text-2xl hover:text-indigo-950"
             >
               <img
-                alt=""
+                alt="Datafolia Logo"
                 src="./src/assets/create-react-app.svg"
-                className="h-8 w-auto fill-current border-2 border-white rounded"
+                className="h-8 w-auto border-2 border-white rounded"
               />
               <span className="text-white flex">Datafolia</span>
             </a>
