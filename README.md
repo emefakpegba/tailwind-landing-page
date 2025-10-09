@@ -57,8 +57,8 @@ npm -v
     If you are setting up a new React project with Vite:
 
     ```bash
-    npm create vite@latest my-project
-    cd my-project
+    npm create vite@latest tailwind-landing-page
+    cd tailwind-landing-page
     ```
 
 2.  **Install Tailwind CSS:**
