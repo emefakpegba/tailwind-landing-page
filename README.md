@@ -23,7 +23,7 @@ This landing page is packed with essential sections, all styled with utility-fir
   * **Dark Mode Support** included by default.
   * Uses the modern, simplified CSS-first configuration.
 
-Tailwind [UI Blocks](https://tailwindcss.com/plus/ui-blocks/marketing) used : 
+Tailwind [UI Blocks](https://tailwindcss.com/plus/ui-blocks/marketing) used: 
 
   * Navbar
   * Mode
@@ -123,18 +123,6 @@ Make sure your compiled CSS is included in the <head> (your framework might hand
 </body>
 </html>
 ```
-
-### Building for Production
-
-To create an optimized, minified production build:
-
-```bash
-npm run build
-```
-
-The Tailwind v4 engine automatically handles importing, vendor prefixing, and purging unused CSS, resulting in the smallest possible production bundle.
-
------
 
 ## 🎨 Customization (CSS-First Configuration)
 
