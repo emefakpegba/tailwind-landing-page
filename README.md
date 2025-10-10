@@ -165,7 +165,7 @@ To use the recommended **Inter** typeface for a modern UI look:
 
 Using React - Installing dependencies
 
-Tailwind Plus for React depends on Headless UI to power all of the interactive behavior and Heroicons for icons, so you'll need to add these two libraries to your project:
+Tailwind Plus for React depends on `Headless UI` to power all of the interactive behavior and Heroicons for icons, so you'll need to add these two libraries to your project:
 ```bash
 npm i @headlessui/react @heroicons/react
 ```
