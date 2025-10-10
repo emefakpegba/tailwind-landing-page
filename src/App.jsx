@@ -9,15 +9,17 @@ import Banner from "./components/Banner";
 
 function App() {
   return (
-    <div>
+    <>
       <Banner />
-      <Navbar />
-      <Prices />
-      <Testimonials />
-      <Newsletter />
-      <Team />
-      <Contact />
-    </div>
+      <div>
+        <Navbar />
+        <Prices />
+        <Testimonials />
+        <Newsletter />
+        <Team />
+        <Contact />
+      </div>
+    </>
   );
 }
 
