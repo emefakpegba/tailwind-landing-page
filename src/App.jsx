@@ -10,8 +10,8 @@ import Banner from "./components/Banner";
 function App() {
   return (
     <div>
-      <Navbar />
       <Banner />
+      <Navbar />
       <Prices />
       <Testimonials />
       <Newsletter />
