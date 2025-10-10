@@ -46,7 +46,7 @@ function Prices() {
         />
       </div>
       <div className="mx-auto max-w-4xl text-center">
-        <h1 className="text-base/7 font-semibold text-indigo-400">Pricing</h1>
+        <h2 className="text-lg sm:text-xl md:text-2xl font-semibold text-indigo-400 tracking-tight leading-7">Pricing</h2>
         <p className="mt-2 text-5xl font-semibold tracking-tight text-balance text-white sm:text-6xl">
           Choose the right plan for you
         </p>
