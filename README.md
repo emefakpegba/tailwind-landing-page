@@ -161,7 +161,7 @@ To use the recommended **Inter** typeface for a modern UI look:
     /* ... rest of your CSS */
     ```
 
-### UI Blocks - Packages Installation
+### Tailwind CSS UI Blocks - Packages Installation
 
 ```bash
 npm i @headlessui/react
