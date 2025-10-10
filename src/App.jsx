@@ -11,8 +11,10 @@ function App() {
   return (
     <>
       <div className="fixed inset-0 -z-10 h-full w-full bg-white/50 backdrop-blur" />
-      <div><Banner /></div>
-      
+      <div className="relative isolate flex items-center gap-x-6 overflow-hidden bg-gray-800/50 px-6 py-2.5 after:pointer-events-none after:absolute after:inset-x-0 after:bottom-0 after:h-px after:bg-white/10 sm:px-3.5 sm:before:flex-1">
+        <Banner />
+      </div>
+
       <div>
         <Navbar />
         <Prices />
