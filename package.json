@@ -1,5 +1,5 @@
 {
-  "name": "portfolia",
+  "name": "datafolia",
   "private": true,
   "version": "0.0.1",
   "type": "module",
@@ -13,6 +13,7 @@
     "@headlessui/react": "^2.2.9",
     "@heroicons/react": "^2.2.0",
     "@tailwindcss/vite": "^4.1.14",
+    "lucide": "^0.545.0",
     "lucide-react": "^0.545.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
@@ -35,5 +36,13 @@
     "portfolio"
   ],
   "author": "Emefa Kpegba",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emefakpegba/tailwind-landing-page.git"
+  },
+  "bugs": {
+    "url": "https://github.com/emefakpegba/tailwind-landing-page/issues"
+  },
+  "homepage": "https://github.com/emefakpegba/tailwind-landing-page#readme"
 }
