@@ -9,8 +9,8 @@ import Contact from "./components/Contact";
 function App() {
   return (
     <div>
-      <Banner />
       <Navbar />
+      <Banner />
       <Prices />
       <Testimonials />
       <Newsletter />

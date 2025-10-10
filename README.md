@@ -25,8 +25,8 @@ This landing page is packed with essential sections, all styled with utility-fir
 
 Tailwind [UI Blocks](https://tailwindcss.com/plus/ui-blocks/marketing) used: 
 
-  * Banner
   * Navbar
+  * Banner
   * Mode
   * Prices
   * Testimonials
